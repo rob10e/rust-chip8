@@ -1,0 +1,6 @@
+[package]
+name = "rust-chips"
+version = "0.1.0"
+authors = ["Robert Tenney <rob10esf@gmail.com>"]
+
+[dependencies]
